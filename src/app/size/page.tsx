@@ -7,7 +7,7 @@ export default function Page() {
       <Image
         src={cifLogo}
         alt="Coding in Flow logo"
-        className="h-64 w-64"
+        className="size-64"
         priority
       />
     </div>
